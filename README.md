@@ -1,7 +1,7 @@
 # Sponitor
 Saves Spotify library to keep track of songs as Spotify can remove songs without notification.
 
-To use this code a spotify client id and key is needed 
+To use this code a spotify client id and key is needed, 
 to create these a spotify premium account is required
 to help with this -> https://developer.spotify.com/documentation/web-api/concepts/apps
 
